@@ -8,7 +8,7 @@
 (50 - 5*6) / 4
 ```
 
-and even more
+### can concatenate and multiply strings
 
 ```python
 3 * 'un' + 'ium'
