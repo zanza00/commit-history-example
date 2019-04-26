@@ -1,7 +1,8 @@
 # This is a md file
 
-i can do something!
 ## Python can do a lot of stuff
+
+### Can make somewhat complex calculations!
 
 ```python
 (50 - 5*6) / 4
